@@ -19,3 +19,10 @@ C:\Users\bilin\Desktop\artificial_intelligence\Final\BayesNET\BayesNET\obj\Debug
 C:\Users\bilin\Desktop\artificial_intelligence\Final\BayesNET\BayesNET\obj\Debug\BayesNET.csproj.CoreCompileInputs.cache
 C:\Users\bilin\Desktop\artificial_intelligence\Final\BayesNET\BayesNET\obj\Debug\BayesNET.exe
 C:\Users\bilin\Desktop\artificial_intelligence\Final\BayesNET\BayesNET\obj\Debug\BayesNET.pdb
+C:\Users\bilin\Desktop\Github Repo\bayes-net\BayesNET\bin\Debug\BayesNET.exe.config
+C:\Users\bilin\Desktop\Github Repo\bayes-net\BayesNET\bin\Debug\BayesNET.exe
+C:\Users\bilin\Desktop\Github Repo\bayes-net\BayesNET\bin\Debug\BayesNET.pdb
+C:\Users\bilin\Desktop\Github Repo\bayes-net\BayesNET\obj\Debug\BayesNET.csprojAssemblyReference.cache
+C:\Users\bilin\Desktop\Github Repo\bayes-net\BayesNET\obj\Debug\BayesNET.csproj.CoreCompileInputs.cache
+C:\Users\bilin\Desktop\Github Repo\bayes-net\BayesNET\obj\Debug\BayesNET.exe
+C:\Users\bilin\Desktop\Github Repo\bayes-net\BayesNET\obj\Debug\BayesNET.pdb

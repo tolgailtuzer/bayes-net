@@ -24,8 +24,8 @@ namespace BayesNET
                 {"credit_history", "own_telephone,class"}
             };
 
-            string trainPath = @"..\..\..\Datasets\Proje1-Train.txt";
-            string testPath = @"..\..\..\Datasets\Proje1-Test.txt";
+            string trainPath = @"..\..\..\Datasets\example-train.csv";
+            string testPath = @"..\..\..\Datasets\example-test.csv";
 
             Stopwatch stopWatch = new Stopwatch();
             stopWatch.Start();
