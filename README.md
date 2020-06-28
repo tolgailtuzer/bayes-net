@@ -13,11 +13,14 @@ For example, a Bayesian network could represent the probabilistic relationships 
 - Example dataset is simplified version of <a href="https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)"> German Credit Data<a>.
 
 <p align="center">
-  <img src="/Images/bayesnetstructure.jpg"/>
-  Example Bayesian Network
   <br>
+  <img src="/Images/bayesnetstructure.jpg"/>
+  <br>
+  <b>Example Bayesian Network</b>
+  <br><br><br>
   <img src="/Images/CPT.png"/>
-  Example CPT(Conditional Probability Table)
+  <br>
+  <b>Example CPT(Conditional Probability Table)</b>
 </p>
 
 
@@ -38,7 +41,7 @@ For example, a Bayesian network could represent the probabilistic relationships 
             {"credit_history", "own_telephone,class"}
         };
     ```
-- If the writeCPTtoFile parameter is true, program prints the generated CPT's into csv files.
+- If the writeCPTtoFile parameter is true, program prints the generated CPT's into CSV files.
     ```csharp
         model.Fit(trainPath, true);
     ```
